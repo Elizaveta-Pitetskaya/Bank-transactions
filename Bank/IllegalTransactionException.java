@@ -1,0 +1,3 @@
+class IllegalTransactionException extends  RuntimeException {}
+
+
